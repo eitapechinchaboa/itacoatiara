@@ -1,0 +1,5 @@
+identificador|texto_inicial|texto_final|url|ordem|tipo
+secao_onde_novo|Quanto custa um novo hoje?|Extra|https://www.mercadolivre.com.br|3|NOVO
+secao_onde_usado|Quanto custa um usado hoje?|Extra|https://www.mercadolivre.com.br|4|USADO
+secao_onde_compra|Onde comprei?|||2|ONDE
+secao_detalhes|Especificações|||1|OUTRO
