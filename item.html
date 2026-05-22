@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>eITAPechinchaBoa - Detalhes do produto</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1 id="nomeSite" class="site-title">Carregando...</h1>
+			<a href="index.html">
+				<div class="logo-section">
+					<img src="images/logo.png" style="width: 15%;" class="logo">
+				</div>
+            </a>
+			<h4>Venda de produtos usados</h4>
+            <div class="contact-info">
+                <p id="telefones" class="telefones-text"></p>
+                <div class="social-links">
+                    <a id="linkFacebook" href="#" target="_blank" class="social-link" title="Facebook">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                            <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
+                        </svg>
+                    </a>
+                    <a id="linkInstagram" href="#" target="_blank" class="social-link" title="Instagram">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                            <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0m5.521 17.172c-.147.586-.535 1.097-1.029 1.472-.494.375-1.084.594-1.711.594H9.219c-.627 0-1.217-.219-1.711-.594-.494-.375-.882-.886-1.029-1.472-.078-.31-.117-.633-.117-.961V8.309c0-.328.039-.651.117-.961.147-.586.535-1.097 1.029-1.472.494-.375 1.084-.594 1.711-.594h5.562c.627 0 1.217.219 1.711.594.494.375.882.886 1.029 1.472.078.31.117.633.117.961v7.902c0 .328-.039.651-.117.961zm-2.521-10.25h-6v6h6v-6z"/>
+                        </svg>
+                    </a>
+                    <a id="linkWhatsapp" href="#" target="_blank" class="social-link" title="WhatsApp">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                            
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M18.403 5.633A8.919 8.919 0 0 0 12.053 3c-4.948 0-8.976 4.027-8.978 8.977 0 1.582.413 3.126 1.198 4.488L3 21.116l4.759-1.249a8.981 8.981 0 0 0 4.29 1.093h.004c4.947 0 8.975-4.027 8.977-8.977a8.926 8.926 0 0 0-2.627-6.35m-6.35 13.812h-.003a7.446 7.446 0 0 1-3.798-1.041l-.272-.162-2.824.741.753-2.753-.177-.282a7.448 7.448 0 0 1-1.141-3.971c.002-4.114 3.349-7.461 7.465-7.461a7.413 7.413 0 0 1 5.275 2.188 7.42 7.42 0 0 1 2.183 5.279c-.002 4.114-3.349 7.462-7.461 7.462m4.093-5.589c-.225-.113-1.327-.655-1.533-.73-.205-.075-.354-.112-.504.112s-.58.729-.711.879-.262.168-.486.056-.947-.349-1.804-1.113c-.667-.595-1.117-1.329-1.248-1.554s-.014-.346.099-.458c.101-.1.224-.262.336-.393.112-.131.149-.224.224-.374s.038-.281-.019-.393c-.056-.113-.505-1.217-.692-1.666-.181-.435-.366-.377-.504-.383a9.65 9.65 0 0 0-.429-.008.826.826 0 0 0-.599.28c-.206.225-.785.767-.785 1.871s.804 2.171.916 2.321c.112.15 1.582 2.415 3.832 3.387.536.231.954.369 1.279.473.537.171 1.026.146 1.413.089.431-.064 1.327-.542 1.514-1.066.187-.524.187-.973.131-1.067-.056-.094-.207-.151-.43-.263"/>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </header>
+
+        <main class="main-content">
+            <a href="index.html" class="voltar-link">← Voltar para todos os produtos</a>
+
+            <div id="produtoDetalhes" class="produto-detalhes">
+                <!-- Detalhes do produto serão carregados aqui -->
+            </div>
+        </main>
+
+        <footer class="footer">
+            <p>&copy; 2026 e<b>ITA</b>PechinhaBoa. Todos os direitos reservados.</p>
+        </footer>
+    </div>
+
+    <script src="js/script.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            carregarPagina('item');
+        });
+    </script>
+</body>
+</html>
