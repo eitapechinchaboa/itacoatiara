@@ -1,9 +1,7 @@
 identificador_info|identificador_secao|identificador_coisa|ordem|texto|informacao_complementar|link
-info1|secao_onde_novo|airfryer|1|180.00|Preço em loja|https://www.mercadolivre.com.br
-info2|secao_onde_novo|airfryer|2|190.00|Outro vendedor|https://www.amazon.com.br
-info3|secao_onde_usado|airfryer|1|120.00|Frete grátis|https://www.mercadolivre.com.br
-info4|secao_onde_novo|forno|1|320.00|Extra|https://www.mercadolivre.com.br
-info5|secao_onde_novo|micro|1|140.00|Extra|https://www.mercadolivre.com.br
-info6|secao_onde_novo|batideira|1|110.00|Extra|https://www.mercadolivre.com.br
-info7|secao_detalhes|airfryer|1|<b>Marca/modelo</b>:|Mondial/XPTO|
-info8|secao_onde_compra|airfryer|1|https://www.mercadolivre.com.br||https://www.mercadolivre.com.br
+info01|secao_onde_novo|airfryer|1|180.00|Preço em loja|https://www.mercadolivre.com.br
+info02|secao_onde_novo|airfryer|2|190.00|Outro vendedor|https://www.amazon.com.br
+info03|secao_onde_usado|airfryer|1|120.00|Frete grátis|https://www.mercadolivre.com.br
+info05|secao_onde_novo|micro|1|140.00|Extra|https://www.mercadolivre.com.br
+info07|secao_detalhes|airfryer|1|<b>Marca/modelo</b>:|Mondial/XPTO|
+info08|secao_onde_compra|airfryer|1|https://www.mercadolivre.com.br||https://www.mercadolivre.com.br
