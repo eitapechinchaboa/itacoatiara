@@ -1,3 +1,4 @@
+// v1.001
 // Variáveis globais
 let parametros = {};
 let coisas = {};
