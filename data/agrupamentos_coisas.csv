@@ -1,6 +1,2 @@
-identificador,identificador_coisa_1,identificador_coisa_2,desconto
-combo1,airfryer,forno,25.00
-combo2,airfryer,batideira,50.00
-combo2,airfryer,micro,5.00
-combo3,forno,micro,15.00
-combo4,micro,batideira,8.00
+identificador|identificador_coisa_1|identificador_coisa_2|desconto
+combo1|exemplo1|exemplo2|0.50

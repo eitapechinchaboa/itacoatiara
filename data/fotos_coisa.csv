@@ -1,15 +1,124 @@
 identificador_coisa|ordem|nome_arquivo|legenda
-airfryer|1|01.jpg|X
-airfryer|2|02.jpg|Y
-airfryer|3|03.jpg|Z
-airfryer|4|04.jpg|W
-airfryer|5|05.jpg|K
-airfryer|6|06.jpg|P
-micro|1|01.jpg|Electrolux 20L Inox Espelhado com Função Tira Odor
-micro|2|02.jpg|Micro-ondasb
-micro|3|03.jpg|Micro-ondasc
-micro|4|04.jpg|Micro-ondasd
-micro|5|05.jpg|Micro-ondase
-secadora|1|01.jpeg|Mueller
-secadora|2|02.jpeg|Mueller
-secadora|3|03.jpeg|Mueller
+airfryer|1|01.jpg|Fritadeira para a família inteira
+airfryer|2|02.jpg|Fritadeira para a família inteira
+airfryer|3|03.jpg|Fritadeira para a família inteira
+airfryer|4|04.jpg|Fritadeira para a família inteira
+airfryer|5|05.jpg|Fritadeira para a família inteira
+airfryer|6|06.jpg|Fritadeira para a família inteira
+micro|1|01.jpg|Microondas em funcionamento
+micro|2|02.jpg|Microondas em funcionamento
+micro|3|03.jpg|Microondas em funcionamento
+micro|4|04.jpg|Microondas em funcionamento
+secadora|1|01.jpeg|Secadora de roupas bem conservada
+secadora|2|02.jpeg|Secadora de roupas bem conservada
+secadora|3|03.jpeg|Secadora de roupas bem conservada
+whey|1|01.png|Embalagem lacrada (vencimento no mês 10)
+puff|1|01.jpeg|
+puff|2|02.jpeg|
+puff|3|03.jpeg|
+puff|4|04.jpeg|
+filtro|1|01.jpeg|Gelando normalmente
+filtro|2|02.jpeg|Gelando normalmente
+filtro|3|03.jpeg|Gelando normalmente
+filtro|4|04.jpeg|Está pingando água desta mangueira. Precisa trocar.
+filtro|5|05.jpeg|Gelando normalmente
+ferro|2|01.jpeg|&nbsp;
+ferro|3|02.jpeg|&nbsp;
+ferro|4|03.jpeg|&nbsp;
+ferro|1|05.png|Foto meramente ilustrativa
+vaporizador|1|01.jpeg|
+vaporizador|2|02.jpeg|
+vaporizador|3|03.jpeg|
+vaporizador|4|04.jpeg|
+vaporizador|5|05.jpeg|
+mesa-escritorio|1|01.jpeg|
+mesa-escritorio|2|02.jpeg|
+mesa-escritorio|3|03.jpeg|
+mesa-escritorio|4|04.jpeg|
+mesa-retratil|1|01.jpeg|Esta mesa abaixa para reduzir o espaço ocupado
+mesa-retratil|2|02.jpeg|Ao pressionar este suporte, ele permite abaixar a mesa
+mesa-retratil|3|03.jpeg|Mesa abaixada
+mesa-retratil|4|04.jpeg|Mesa abaixada
+mesa-retratil|5|05.jpeg|Mesa retrátil
+mesa-retratil|6|06.jpeg|Mesa retrátil
+mesa-retratil|7|07.jpeg|Estes são os suportes novos que vão juntos se as duas mesas forem compradas
+fragmentadora|1|01.jpeg|
+fragmentadora|2|02.jpeg|
+fragmentadora|3|03.jpeg|
+fragmentadora|4|04.jpeg|
+fragmentadora|5|05.jpeg|
+fragmentadora|6|06.jpeg|
+prateleira-impressora|1|01.jpeg|
+prateleira-impressora|2|02.jpeg|
+prateleira-impressora|3|03.jpeg|
+prateleira-impressora|4|04.jpeg|
+prateleira-impressora|5|05.jpeg|
+prateleira-livros|1|01.jpeg|
+prateleira-livros|2|02.jpeg|
+prateleira-livros|3|03.jpeg|
+ventiladorzinho|1|01.jpeg|
+ventiladorzinho|2|02.jpeg|
+ventiladorzinho|3|03.jpeg|
+ventiladorzinho|4|04.jpeg|
+mesinha|1|01.jpeg|
+mesinha|2|02.jpeg|
+mesinha|3|03.jpeg|
+mesinha|4|04.jpeg|
+mesinha|5|05.jpeg|
+suspensos|1|01.jpeg|
+suspensos|2|02.jpeg|
+suspensos|3|03.jpeg|
+suspensos|4|04.jpeg|
+suspensos|5|05.jpeg|
+suspensos|6|06.jpeg|
+suspensos|7|07.jpeg|
+suspensos|8|08.jpeg|
+suspensos|9|09.jpeg|
+suspensos|10|10.jpeg|
+mixer|1|01.jpeg|
+mixer|2|02.jpeg|
+mixer|3|03.jpeg|
+mixer|4|04.jpeg|
+secadora-de-salada|1|01.png|
+secadora-de-salada|2|02.png|
+secadora-de-salada|3|03.png|
+furadeira|1|01.jpeg|
+tacho|2|02.jpeg|&nbsp;
+tacho|3|03.jpeg|&nbsp;
+tacho|4|04.jpeg|&nbsp;
+tacho|1|05.jpeg|&nbsp;
+tacho|5|05.png|Imagem meramente ilustrativa para visualização do tamanho do tacho
+roupeiro|1|01.png|&nbsp;
+roupeiro|2|02.png|Não repare a bagunça🤣foca no guarda-roupas
+roupeiro|3|03.jpeg|Com pés altos sem tocar no chão
+roupeiro|4|04.jpeg|As portas estão desalinhadas mas funcionando normalmente
+roupeiro|5|05.jpeg|A gaveta de baixo está emperrando um pouco
+roupeiro|6|06.png|Compre também o balcão e o armário branco multiuso por apenas R$40 a mais
+roupeiro|7|07.png|Compre também o balcão e o armário branco multiuso por apenas R$40 a mais
+roupeiro|8|08.png|Compre também o balcão e o armário branco multiuso por apenas R$40 a mais
+cuscuzeira-preta|1|01.png|
+cuscuzeira-preta|2|02.png|
+cuscuzeira-preta|3|03.png|
+cuscuzeira-prata-individual|1|01.png|
+cuscuzeira-prata-individual|2|02.png|
+cuscuzeira-prata-individual|3|03.png|
+cuscuzeira-prata-individual|4|04.png|
+tela|1|01.jpeg|
+tela|2|02.png|
+tela|3|03.jpeg|
+tela|4|04.jpeg|
+tela|5|05.jpeg|
+tela|6|06.jpeg|
+tela|7|07.jpeg|
+galao-yara|1|01.png|
+galao-yara|2|02.png|
+galao-yara|3|03.png|
+suporte-galao|1|01.png|
+box-cama-travesseiros|1|01.png|
+box-cama-travesseiros|2|01b.png|
+box-cama-travesseiros|3|02.png|
+box-cama-travesseiros|4|03.png|
+box-cama-travesseiros|5|04.png|
+box-cama-travesseiros|6|05.png|
+box-cama-travesseiros|7|06.png|
+box-cama-travesseiros|8|07.png|
