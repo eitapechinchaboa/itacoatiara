@@ -1,4 +1,3 @@
-// v1.001
 // Variáveis globais
 let parametros = {};
 let coisas = {};
@@ -140,7 +139,11 @@ async function carregarDados() {
         infoSecoes[id].sort((a, b) => parseInt(a.ordem) - parseInt(b.ordem));
     });
     
-    console.log('Coisas processadas:', coisas);
+    console.log('Coisas:', coisas);
+	console.log('Contatos:', contatos);
+	console.log('Fotos:', fotos);
+	console.log('Seções:', secoes);
+	console.log('Infos:', dadosInfoSecoes);
 }
 
 // Carregar página
@@ -191,7 +194,8 @@ function carregarPaginaIndex() {
         const coisa = coisas[id];
         const qtdInicial = parseInt(coisa.quantidade_inicial);
         const qtdVendida = parseInt(coisa.quantidade_vendida);
-        
+        console.log('Coisaaaaa', coisa);
+		console.log('Qtddddddddd', qtdVendida);
         // Mostrar apenas produtos disponíveis
         if (qtdVendida >= qtdInicial) return;
         
@@ -453,10 +457,8 @@ function carregarPaginaItem() {
     const linkWhats = `https://api.whatsapp.com/send/?phone=${numeroWhats}&text=${encodeURIComponent(textoFinal)}&type=phone_number&app_absent=0`;
     html += `<a href="${linkWhats}" target="_blank" class="whatsapp-link">Falar com o vendedor</a>`;
     html += '</div>';
-    
-	html += '<hr class="meuhr"><br>';
-	
-    // Coisas relacionadas
+        
+	// Coisas relacionadas
     const coisasRelacionadas = [];
     agrupamentos.forEach(grupo => {
         if (grupo.identificador_coisa_1 === id) {
@@ -469,6 +471,7 @@ function carregarPaginaItem() {
     const coisasRelacionadasUnicas = [...new Set(coisasRelacionadas)];
     
     if (coisasRelacionadasUnicas.length > 0) {
+        html += '<hr class="meuhr"><br>';
         html += '<div class="relacionadas-container">';
         html += '<div class="relacionadas-titulo">Veja também</div>';
         html += '<div class="relacionadas-lista">';
@@ -650,6 +653,6 @@ function atualizarCarrossel(id) {
     });
     
     if (legenda && fotosCoisa[currentSlide]) {
-        legenda.textContent = fotosCoisa[currentSlide].legenda || '';
+        legenda.innerHTML = fotosCoisa[currentSlide].legenda || '';
     }
 }
